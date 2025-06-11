@@ -1,0 +1,11 @@
+{
+    "purpose": "team",
+    "sections": [],
+    "tablet": {
+        "name": "surface",
+        "size": {
+            "width": 1075,
+            "height": 1028
+        }
+    }
+}

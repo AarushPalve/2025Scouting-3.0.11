@@ -1,0 +1,56 @@
+{
+    "purpose": "match",
+    "sections": [
+        {
+            "name": "Tele",
+            "items": [
+                {
+                    "type": "image",
+                    "image": "RedField2025",
+                    "tag": "tag_1",
+                    "x": 22,
+                    "y": 31,
+                    "width": 573,
+                    "height": 451,
+                    "color": "#000000",
+                    "background": "#ffffff",
+                    "fontFamily": "Arial",
+                    "fontSize": 36,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "null",
+                    "transparent": true,
+                    "field": false,
+                    "mirrorx": false,
+                    "mirrory": false
+                },
+                {
+                    "type": "updown",
+                    "orientation": "horizontal",
+                    "tag": "tele_proc",
+                    "x": 121,
+                    "y": 39,
+                    "width": 146,
+                    "height": 50,
+                    "color": "#000000",
+                    "background": "#ffffff",
+                    "fontFamily": "Arial",
+                    "fontSize": 36,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "integer",
+                    "transparent": true,
+                    "minvalue": 0,
+                    "maxvalue": 20
+                }
+            ]
+        }
+    ],
+    "tablet": {
+        "name": "surface",
+        "size": {
+            "width": 1075,
+            "height": 1028
+        }
+    }
+}

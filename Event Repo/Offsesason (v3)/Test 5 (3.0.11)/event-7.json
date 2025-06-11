@@ -1,0 +1,40 @@
+{
+  "locked_": false,
+  "hidden_hints_": [],
+  "data_info_": {
+    "scouted_team_": [],
+    "scouted_match_": [],
+    "match_results_": [],
+    "team_results_": []
+  },
+  "dataset_info_": {
+    "datasets_": []
+  },
+  "picklist_info_": {
+    "picklist_": []
+  },
+  "team_info_": {
+    "teams_": []
+  },
+  "formula_info_": {
+    "formulas_": []
+  },
+  "tablet_info_": {
+    "tablets_": [],
+    "teamassignments_": [],
+    "matchassignements_": []
+  },
+  "match_info_": {
+    "matches_": []
+  },
+  "graph_info_": {
+    "team_graph_data_": []
+  },
+  "form_info_": {},
+  "team_db_info_": {
+    "col_descs_": []
+  },
+  "match_db_info_": {
+    "col_descs_": []
+  }
+}
